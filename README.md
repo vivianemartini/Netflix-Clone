@@ -18,3 +18,6 @@ Mudanças que fiz ao projeto:
 * icones de mídias sociais
 * footer
 
+![](https://github.com/vivianemartini/Netflix-Clone/blob/main/Netlfix%20-%20clone/img/netflix-clone.JPG)
+
+![](https://github.com/vivianemartini/Netflix-Clone/blob/main/Netlfix%20-%20clone/img/netflix-clone2.JPG)
