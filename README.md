@@ -1,5 +1,7 @@
 # Netflix-Clone 📺
 
+Parte do Bootcamp da DIO! 
+
 Recriando a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto aprendi: 
 * como estruturar um layout 
 * técnicas de CSS3 com containers e variáveis 
@@ -15,4 +17,4 @@ Mudanças que fiz ao projeto:
 * outro carrosel
 * icones de mídias sociais
 * footer
-* 
+
