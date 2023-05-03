@@ -8,7 +8,8 @@ Recriando a interface do principal site de streaming mundial utilizando tecnolog
 * como posicionar os elementos com Flexbox 
 * como utilizar plugins Jquery a favor da sua aplicação
 
-Mudanças que fiz ao projeto:
+## Mudanças que fiz ao projeto:
+
 * logo
 * novo padrão da descrição
 * hover do menu
@@ -18,8 +19,14 @@ Mudanças que fiz ao projeto:
 * icones de mídias sociais
 * footer
 
-You may take a look over here: (https://netflix-clone.martiniviviane.repl.co/)
+You may take a look over here: [LIVE](https://netflix-clone.martiniviviane.repl.co/)
+
+## Preview
 
 ![](https://github.com/vivianemartini/Netflix-Clone/blob/main/Netlfix%20-%20clone/img/netflix-clone.JPG)
 
 ![](https://github.com/vivianemartini/Netflix-Clone/blob/main/Netlfix%20-%20clone/img/netflix-clone2.JPG)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
